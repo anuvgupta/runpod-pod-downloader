@@ -1,0 +1,9 @@
+{
+    "package": "runpod-pod-downloader",
+    "targets": {
+        "run": "python3 src/download.py",
+        "build": "echo \"Nothing to build.\" && echo \"Running instead...\n\" && b run",
+        "clean": "rm -rf ./ComfyUI",
+        "test": "echo \"Nothing to test.\""
+    }
+}
