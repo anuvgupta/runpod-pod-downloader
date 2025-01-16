@@ -1,0 +1,3 @@
+controlnet https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors b3e4ac47bc814019d50dc842f579301440deb6d8f09ee1b91a30f527ace1b852
+checkpoint https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_4step.safetensors e0d996ee0013e79d9d3561f50fcafb9a17e3ff07b780358e3b66d67932c4d490
+lora https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-Logo-Design/resolve/main/FLUX-dev-lora-Logo-Design.safetensors 53f44b6f4e4f9e20313ac7686190bd64292a872354ebd457c9480a6846c5051b
